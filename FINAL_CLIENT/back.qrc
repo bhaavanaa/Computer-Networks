@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="BACK">
+    <file>white.jpeg</file>
+  </qresource>
+</RCC>
