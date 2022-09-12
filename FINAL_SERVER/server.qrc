@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>serverpg1.v1.jpg</file>
+  </qresource>
+</RCC>
